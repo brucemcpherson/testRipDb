@@ -1,5 +1,5 @@
 # Google Apps Script Project: testRipDb
-This repo (testRipDb) was automatically updated on 09 June 2015 14:54:13 BST by GasGit
+This repo (testRipDb) was automatically updated on 09 June 2015 19:06:35 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project testRipDb
@@ -13,7 +13,7 @@ Code| server_js
 ### Directly referenced libraries
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cDriverOrchestrate| cDriverOrchestrate|MFOtcXFHPAtxy_lb6tkhrXKi_d-phDA33|5|yes|[here](libraries/cDriverOrchestrate "library source")
+cDriverOrchestrate| cDriverOrchestrate|MFOtcXFHPAtxy_lb6tkhrXKi_d-phDA33|5|no|[here](libraries/cDriverOrchestrate "library source")
 cDriverParse| cDriverParse|Mhr42c9etIE-fQb2D9pwW0ai_d-phDA33|9|no|[here](libraries/cDriverParse "library source")
 cDriverProperties| cDriverProperties|MrpyO-B3fO-b1NG3LZ4UzaKi_d-phDA33|11|no|[here](libraries/cDriverProperties "library source")
 cDriverMongoLab| cDriverMongoLab|MPAHw_-cHNDxsYAg263J7Fai_d-phDA33|6|no|[here](libraries/cDriverMongoLab "library source")
@@ -28,13 +28,13 @@ cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUsefu
 ### All dependencies and sub dependencies
 *library*|*identifier*|*key*|*version*|*dev mode*|*source*|
 --- | --- | --- | --- | --- | --- 
-cDriverOrchestrate| cDriverOrchestrate|MFOtcXFHPAtxy_lb6tkhrXKi_d-phDA33|5|yes|[here](libraries/cDriverOrchestrate "library source")
+cDriverOrchestrate| cDriverOrchestrate|MFOtcXFHPAtxy_lb6tkhrXKi_d-phDA33|5|no|[here](libraries/cDriverOrchestrate "library source")
 cDriverParse| cDriverParse|Mhr42c9etIE-fQb2D9pwW0ai_d-phDA33|9|no|[here](libraries/cDriverParse "library source")
 cParseCom| cParseCom|MMaKU0wHrNShUwFypY3nM8iz3TLx7pV4j|16|no|[here](libraries/cParseCom "library source")
 cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|25|no|[here](libraries/cUseful "library source")
 cDriverProperties| cDriverProperties|MrpyO-B3fO-b1NG3LZ4UzaKi_d-phDA33|11|no|[here](libraries/cDriverProperties "library source")
 cDelegateMemory| cDelegateMemory|MyIN8WHN1Uf3EG-obHsjrAyz3TLx7pV4j|10|no|[here](libraries/cDelegateMemory "library source")
-cDriverMemory| cDriverMemory|M96uVZRXXG_RY3c2at9V6tSz3TLx7pV4j|10|no|[here](libraries/cDriverMemory "library source")
+cDriverMemory| cDriverMemory|M96uVZRXXG_RY3c2at9V6tSz3TLx7pV4j|11|no|[here](libraries/cDriverMemory "library source")
 cDriverMongoLab| cDriverMongoLab|MPAHw_-cHNDxsYAg263J7Fai_d-phDA33|6|no|[here](libraries/cDriverMongoLab "library source")
 cDbAbstraction| cDbAbstraction|MHfCjPQlweartW45xYs6hFai_d-phDA33|37|no|[here](libraries/cDbAbstraction "library source")
 cFlatten| cFlatten|MqxKdBrlw18FDd-X5zQLd7yz3TLx7pV4j|8|no|[here](libraries/cFlatten "library source")
