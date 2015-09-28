@@ -1,5 +1,5 @@
 # Google Apps Script Project: testRipDb
-This repo (testRipDb) was automatically updated on 15 September 2015 11:48:11 BST by GasGit
+This repo (testRipDb) was automatically updated on 28 September 2015 17:43:25 BST by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project testRipDb
@@ -49,6 +49,6 @@ cDriverDrive| cDriverDrive|Ma__4vH--nQ_FPsuNF1BFuyz3TLx7pV4j|12|no|[here](librar
 ### Enabled Google Services
 *library*|*identifier*|*version*
 --- | --- | --- 
-Drive API| Drive|v2
+FusionTables| FusionTables|v1
 ###Need more detail ?
 You can see [full project info as json here](info.json)
