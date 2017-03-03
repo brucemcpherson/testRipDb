@@ -50,6 +50,7 @@ function tall() {
 
   
   currentTest = [];
+
   
   handlers.forEach (function(d) {
     if(!currentTest.length || currentTest.indexOf(d.getDBName()) !== -1) { 
@@ -59,6 +60,15 @@ function tall() {
   
 }
 
+function td() {
+
+  var handler = new cDbAbstraction.DbAbstraction ( cDriverDrive , {
+    siloid:'dbtest.json',
+    dbid:'/'
+  });
+  handler.remove();
+}
+
 function test (handler) {
 
   assert ( handler.isHappy() , null, "got handler");
@@ -66,11 +76,13 @@ function test (handler) {
   
   // simulate a scriptDB
   var db = new cRipDB.RipDB(handler);
+
   
   // do the whole thing in a transaction
   //var t = handler.transaction(function(hob) {
   
     // clear existing data
+
     resultAssert ( handler.remove(), "removing all data");
   
     var m1 = mapAssert(db.save({name:"fred",age:21}), "saving"); 
